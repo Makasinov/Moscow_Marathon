@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+     <file>images/1.png</file>
+	 <file>images/2.png</file>
+	 <file>images/3.png</file>
+	 <file>images/4.png</file>
+	 <file>images/dot.png</file>
+	 <file>images/left.png</file>
+	 <file>images/map.jpg</file>
+	 <file>images/map2.png</file>
+	 <file>images/female-icon.png</file>
+	 <file>images/male-icon.png</file>
+	 <file>images/bmi-healthy-icon.png</file>
+	 <file>images/bmi-obese-icon.png</file>
+	 <file>images/bmi-overweight-icon.png</file>
+	 <file>images/bmi-underweight-icon.png</file>
+	 <file>makasino_mgkit.sql</file>
+	 
+ </qresource>
+ </RCC>
